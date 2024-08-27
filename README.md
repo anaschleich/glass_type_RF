@@ -1,4 +1,4 @@
-# Glass Classfication
+# Glass Classification
 Create a simple Random Forest Classifier to predict the glass type, based on a dataset of glass metrics. 
 
 The dataset features different glass metrics, a mix of physics and chemistry properties to understand and predict what type of glass they refer to.
