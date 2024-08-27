@@ -3,7 +3,7 @@ Create a simple Random Forest Classifier to predict the glass type, based on a d
 
 The dataset features different glass metrics, a mix of physics and chemistry properties to understand and predict what type of glass they refer to.
 
-## Te properties include:
+## The properties include:
 1. Refractive Index (RI) of the glass, which is an optical property
 2. Chemical elements such as: 
    - Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
