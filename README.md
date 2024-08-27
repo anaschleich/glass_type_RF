@@ -15,12 +15,12 @@ The dataset features different glass metrics, a mix of physics and chemistry pro
    - Ba: Barium
    - Fe: Iron
 3. Type of glass (glass attribute):
--- 1 building_windows_float_processed
--- 2 building_windows_non_float_processed
--- 3 vehicle_windows_float_processed
--- 4 vehicle_windows_non_float_processed (none in this database)
--- 5 containers
--- 6 tableware
--- 7 headlamps
+   - 1 building_windows_float_processed
+   - 2 building_windows_non_float_processed
+   - 3 vehicle_windows_float_processed
+   - 4 vehicle_windows_non_float_processed (none in this database)
+   - 5 containers
+   - 6 tableware
+   - 7 headlamps
 
 Based on those, we should be able to predict the type of glass they correspond to: tableware, headlamps, etc.
